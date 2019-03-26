@@ -1,5 +1,6 @@
 ####### notas de clase #######
+
 git init empieza con el repo 
 git add . añade el staging area
-estamos modificando este archivo 
-todos a la misma vez
+
+soy chevere
